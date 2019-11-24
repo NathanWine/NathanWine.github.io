@@ -381,7 +381,7 @@ body.offcanvas {
 .colorlib-services,
 .colorlib-contact {
   padding-top: 4em;
-  padding-bottom: 9em;
+  padding-bottom: 6em;
   clear: both;
   width: 100%;
   display: block; }
@@ -397,6 +397,10 @@ body.offcanvas {
       padding-top: 5em;
       padding-bottom: 8em; } }
 
+.colorlib-services {
+	  padding-bottom: 2em;
+}
+
 .author-img {
   background-size: cover;
   background-position: center center;
@@ -405,10 +409,10 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 4em;
+  margin-bottom: 3em;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   line-height: 1.8;
   position: relative; }
   .colorlib-heading span {
@@ -418,13 +422,12 @@ body.offcanvas {
       margin-bottom: 3em; } }
 
 .heading-meta {
-  margin-bottom: 15px;
   display: block;
-  font-size: 10px;
+  font-size: 13px;
   text-transform: uppercase;
   color: #999999;
   font-weight: 500;
-  letter-spacing: 5px; }
+  letter-spacing: 2px; }
 
 .about-img {
   width: 100%;
